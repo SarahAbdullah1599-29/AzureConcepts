@@ -1,0 +1,5 @@
+                                                                              Subscription
+This is used for the billing and other management purposes.
+
+                                                                              Resource Groups
+This organizes the resources you use. These resources can be virtual machines, app services or storages. We set up resource groups in different regions and different projects.
